@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @VictorAKang, second year cs undergraduate student
+- 👋 Hi, I’m @VictorAKang, third year cs undergraduate student
 - 👀 I’m interested in algorithms and back end development
 - 🌱 I’m currently learning simple AI algorithms
 - 💞️ I’m looking to collaborate on anything really
